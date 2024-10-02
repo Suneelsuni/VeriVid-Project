@@ -1,0 +1,13 @@
+VeriVid/
+├── contracts/
+│   └── CredentialRegistry.sol
+├── migrations/
+│   └── 2_deploy_contracts.js
+├── models/
+│   └── videoModel.js
+├── public/
+│   └── index.html
+├── src/
+│   ├── client.js
+│   └── server.js
+└── package.json
